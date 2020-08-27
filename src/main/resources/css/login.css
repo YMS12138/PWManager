@@ -1,0 +1,6 @@
+#exitBtn{
+    -fx-background-color: none;
+}
+#exitBtn:hover{
+    -fx-background-color: #6b929a;
+}

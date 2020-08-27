@@ -1,0 +1,37 @@
+/*背景*/
+#background{
+    -fx-background-color: #ffffff;
+    -fx-border-color: gray;
+}
+/*左侧菜单栏---底层*/
+#menu{
+
+}
+/*菜单栏背景---vbox*/
+#menu-bkg{
+    -fx-background-color: #304156;
+}
+/*首部背景*/
+#title-bkg{
+    -fx-background-color: #304156;
+}
+/*文字标题*/
+#title{
+    -fx-text-fill: white;
+}
+/*左侧菜单栏---菜单项*/
+#item{
+    -fx-text-fill: #f3f3f3;
+    -fx-background-color: none;
+}
+#item:hover{
+    -fx-background-color: black;
+}
+/*退出按钮*/
+#exitbtn{
+    -fx-text-fill: black;
+}
+#exitbtn:hover{
+    -fx-text-fill: red;
+}
+
