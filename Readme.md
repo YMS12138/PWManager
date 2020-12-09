@@ -38,5 +38,3 @@ public class JNCryptorTool {
     public static final String SecretKey = "123456789abcdefg";
 }
 ```
-
-有BUG尽量自己修（不需要通知我），BUG反馈：ymslucky@163.com
